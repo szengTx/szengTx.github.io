@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 欢迎访问我的主页
+title: this is szeng，welcome！
 ---
 
 # Welcome
-this is SzengTx
+this is SzengTx<br>
 hope to see you in the near future!
 
 <body>
